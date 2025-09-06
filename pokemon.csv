@@ -1,0 +1,6 @@
+Name,Type 1,Type 2,Total,Attack,Defense,Sp. Atk,Sp. Def,Speed,Legendary
+Bulbasaur,Grass,Poison,318,49,49,65,65,45,False
+Charmander,Fire,,309,52,43,60,50,65,False
+Squirtle,Water,,314,48,65,50,64,43,False
+Pikachu,Electric,,320,55,40,50,50,90,False
+Mewtwo,Psychic,,680,110,90,154,90,130,True
